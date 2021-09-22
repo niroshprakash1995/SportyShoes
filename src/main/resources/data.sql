@@ -1,3 +1,5 @@
+/* Used for H2 only. These will not be run since MySQL is used. */
+
 create table admin
 (
    adminid varchar(50) not null,
